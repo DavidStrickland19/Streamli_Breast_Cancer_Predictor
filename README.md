@@ -29,7 +29,7 @@ CSS Styling: Custom CSS code is applied to enhance user-friendliness and visual 
 
 Clone the repository to your local machine:
 
- ```git clone https://github.com/your-username/your-repo.git```
+ ``` git clone https://github.com/DavidStrickland19/Streamli_Breast_Cancer_Predictor.git```
 
 
 Install the required dependencies: 
