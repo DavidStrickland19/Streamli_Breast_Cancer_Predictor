@@ -29,17 +29,17 @@ CSS Styling: Custom CSS code is applied to enhance user-friendliness and visual 
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repo.git
+ ```git clone https://github.com/your-username/your-repo.git```
 
 
 Install the required dependencies: 
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 Run the Streamlit Application:
 
-streamlit run app.py
+```streamlit run app.py```
 
 
 
