@@ -15,9 +15,17 @@ This repository contains a machine learning model built using historical breast 
 
 
 Machine Learning Model: A logistic regression model trained on historical breast cancer data to predict malignancy based on input metrics.
+
+
 Streamlit Web App: An interactive web application created with Streamlit to allow nursing staff to enter sample metrics and receive predictions.
+
+
 Data Scaling: Data preprocessing includes scaling to ensure the radar chart used in the application is readable and proportional.
+
+
 Model Persistence: The model is serialized using the Pickle package to facilitate loading and use within the Streamlit application.
+
+
 CSS Styling: Custom CSS code is applied to enhance user-friendliness and visual appeal of the web application.
 
 
