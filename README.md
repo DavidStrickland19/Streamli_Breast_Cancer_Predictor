@@ -39,7 +39,7 @@ Install the required dependencies:
 
 Run the Streamlit Application:
 
-```streamlit run app.py```
+```streamlit run app/main.py```
 
 
 
